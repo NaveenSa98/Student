@@ -3,7 +3,7 @@
 ## Overview
 The Student Management System is a comprehensive web application designed to streamline and enhance the process of managing student information within an educational institution. This project aims to provide an efficient and user-friendly platform for administrators and teachers to manage student details.
 
-##Key Features
+## Key Features
 #### The system should record essential data of students such as,
 1. Name
 2. Student ID
