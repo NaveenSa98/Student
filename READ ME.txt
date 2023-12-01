@@ -1,0 +1,9 @@
+-------- STUDENT MANAGEMENT SYSTEM - Admin Logins -------------
+
+----Admin 1-------
+User Name - naveen123
+Password - 123
+
+----Admin 2-------
+User Name - hasi456
+Password - 456
