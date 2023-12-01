@@ -1,7 +1,7 @@
 # Student-Management_System
 
 ## Overview
-The Student Management System is a comprehensive web application designed to streamline and enhance the process of managing student information within an educational institution. This project aims to provide an efficient and user-friendly platform for administrators and teachers to manage students details.
+The Student Management System is a comprehensive web application designed to streamline and enhance the process of managing student information within an educational institution. This project aims to provide an efficient and user-friendly platform for administrators and teachers to manage student details.
 
 ##Key Features
 #### The system should record essential data of students such as,
@@ -22,4 +22,4 @@ The Student Management System is a comprehensive web application designed to str
 4. MySQL
    
 ## License
-This project is licensed under the [Mit] - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the LICENSE.md file for details.
