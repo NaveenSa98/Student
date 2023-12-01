@@ -22,4 +22,4 @@ The Student Management System is a comprehensive web application designed to str
 4. MySQL
    
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
